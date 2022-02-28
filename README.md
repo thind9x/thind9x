@@ -2,7 +2,6 @@
 
 <!--
 **thind9x/thind9x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Thind9x's GitHub stats](https://github-readme-stats.vercel.app/api?username=thind9x&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
@@ -15,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![thind9x's GitHub stats](https://github-readme-stats.vercel.app/api?username=thind9x)]
+
